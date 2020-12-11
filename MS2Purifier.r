@@ -15,7 +15,7 @@ library(randomForest)
 message('Libraries loaded.')
 
 # Directories
-file_directory <- 'E:/MS2Purifier_2020/bruker_data/urine_RPpos_2Da'       # directory containing DDA and AIF mzXML files
+file_directory <- 'E:/MS2Purifier_2020/bruker_data'       # directory containing DDA and AIF mzXML files
 model_directory <- 'E:/MS2Purifier_2020/R_scripts&model'  # directory containing machine learning models
 
 # Parameter settings
