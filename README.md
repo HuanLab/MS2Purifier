@@ -6,4 +6,6 @@ MS2Purifier is freely available for non-commercial purpose.
 
 Huan Lab
 
-Dec 16, 2020
+Feb 17, 2021
+
+# Citation
